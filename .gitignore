@@ -9,3 +9,5 @@ matmult*.pws
 /local/
 *.svg
 SHA256*pws
+
+*.pws
